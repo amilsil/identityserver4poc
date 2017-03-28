@@ -17,6 +17,8 @@ namespace IdentityServer4NetCore
         // For more information on how to configure your application, visit http://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
+
             services.AddSingleton<IClientStore, CustomClientStore>();
             services.AddIdentityServer()
                 .AddTemporarySigningCredential()
@@ -51,6 +53,8 @@ namespace IdentityServer4NetCore
             }
 
             app.UseIdentityServer();
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
         }
     }
 
