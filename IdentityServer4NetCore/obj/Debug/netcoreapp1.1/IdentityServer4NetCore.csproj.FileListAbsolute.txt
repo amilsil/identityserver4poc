@@ -1,0 +1,9 @@
+C:\workspace\identityserver4poc\IdentityServer4NetCore\bin\Debug\netcoreapp1.1\IdentityServer4NetCore.deps.json
+C:\workspace\identityserver4poc\IdentityServer4NetCore\bin\Debug\netcoreapp1.1\IdentityServer4NetCore.runtimeconfig.json
+C:\workspace\identityserver4poc\IdentityServer4NetCore\bin\Debug\netcoreapp1.1\IdentityServer4NetCore.runtimeconfig.dev.json
+C:\workspace\identityserver4poc\IdentityServer4NetCore\bin\Debug\netcoreapp1.1\IdentityServer4NetCore.dll
+C:\workspace\identityserver4poc\IdentityServer4NetCore\obj\Debug\netcoreapp1.1\IdentityServer4NetCore.csprojResolveAssemblyReference.cache
+C:\workspace\identityserver4poc\IdentityServer4NetCore\obj\Debug\netcoreapp1.1\IdentityServer4NetCore.AssemblyInfo.cs
+C:\workspace\identityserver4poc\IdentityServer4NetCore\bin\Debug\netcoreapp1.1\IdentityServer4NetCore.pdb
+C:\workspace\identityserver4poc\IdentityServer4NetCore\obj\Debug\netcoreapp1.1\IdentityServer4NetCore.dll
+C:\workspace\identityserver4poc\IdentityServer4NetCore\obj\Debug\netcoreapp1.1\IdentityServer4NetCore.pdb
